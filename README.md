@@ -1,0 +1,1 @@
+You will use these files (which you should have created on Day 6) to learn more about Google App Engine. Specifically, we will spend today learning how to make our templates dynamic by adding logic and passing and reading variables.
