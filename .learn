@@ -1,3 +1,5 @@
+languages:
+  - python
 tags:
   - app engine
   - handler
@@ -5,7 +7,6 @@ tags:
   - MVC
   - cssi
   - google
-languages:
-  - python
+resources: 0
 type:
-  - student interface
+  - reference notes
