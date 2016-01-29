@@ -45,4 +45,4 @@ app = webapp2.WSGIApplication(routes, debug=True)`
 ```
 Finally, we make sure that we use the WSGIA app, which helps our web server interact with or app. WSGIA is beyond the scope of our class, but feel free to learn more [here](http://www.fullstackpython.com/wsgi-servers.html). 
 
-<a href='https://learn.co/lessons/cssi-7.1-gae-review' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-7.1-gae-review' title='Google App Engine Review'>Google App Engine Review</a> on Learn.co and start learning to code for free.</p>
